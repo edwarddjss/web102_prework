@@ -32,7 +32,7 @@ Here's a walkthrough of implemented features:
 
 ## License
 
-    Copyright [2024] [Edward De Jesus]
+    Copyright [2025] [Edward De Jesus]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
